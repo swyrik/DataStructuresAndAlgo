@@ -13,8 +13,8 @@ public class TestStackLinkedList {
         stack.push("C++");
         System.out.println("Peek : "+stack.peek());
         System.out.println(stack);
-        stack.pop();
-        stack.pop();
+//        stack.pop();
+//        stack.pop();
         System.out.println(stack);
         System.out.println("Peek : "+stack.peek());
     }
