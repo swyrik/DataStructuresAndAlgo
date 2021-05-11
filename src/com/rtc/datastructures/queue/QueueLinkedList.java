@@ -1,5 +1,7 @@
 package com.rtc.datastructures.queue;
 
+import com.sun.xml.internal.ws.util.xml.CDATA;
+
 public class QueueLinkedList<T extends Comparable<T>>   {
 
     private Element<T> front;
@@ -41,5 +43,32 @@ public class QueueLinkedList<T extends Comparable<T>>   {
             rear = node;
         }
         size++;
+    }
+
+    public T dequeue() throws QueueUnderFlowException {
+
+        if(isEmpty()){
+            throw new QueueUnderFlowException("queue is empty");
+        }else{
+            T data = front.getData();
+            if(front == rear){
+                front = null;
+                rear = null;
+            }else{
+                front = front.getNext();
+                front.setPrevious(null);
+
+            }
+            size--;
+            return data;
+        }
+    }
+
+    public T peek() throws QueueUnderFlowException{
+        if(isEmpty()){
+            throw new QueueUnderFlowException("queue is empty");
+        }
+
+        return front.getData();
     }
 }
