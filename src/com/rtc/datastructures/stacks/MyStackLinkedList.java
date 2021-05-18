@@ -21,6 +21,14 @@ public class MyStackLinkedList<T extends Comparable<T>> {
         return null;
     }
 
+    public boolean isEmpty(){
+        return size == 0;
+    }
+
+    public int size(){
+        return size;
+    }
+
     public T pop() throws StackUnderflowException{
         if(size != 0){
             Element<T> pop = head;
@@ -34,6 +42,10 @@ public class MyStackLinkedList<T extends Comparable<T>> {
 
     @Override
     public String toString() {
+        if(isEmpty()){
+            return "";
+        }
+
         return head.toString();
     }
 }
