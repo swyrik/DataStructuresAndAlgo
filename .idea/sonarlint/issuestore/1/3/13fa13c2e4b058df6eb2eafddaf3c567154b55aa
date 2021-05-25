@@ -1,0 +1,14 @@
+
+g
+java:S1192"LDefine a constant instead of duplicating this literal "
+Contents: " 7 times.(ÄÌæ‘øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‹èÍÖùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÌæ‘øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÌæ‘øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÌæ‘øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÌæ‘øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÌæ‘øÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ÄÌæ‘øÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(’¾¥
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÄÌæ‘øÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(’¾¥

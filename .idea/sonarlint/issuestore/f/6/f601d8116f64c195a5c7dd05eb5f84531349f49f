@@ -1,0 +1,16 @@
+
+X
+java:S2259`"BA "NullPointerException" could be thrown; "curr" is nullable here.(“Åú¤
+X
+java:S2259P"BA "NullPointerException" could be thrown; "curr" is nullable here.(“Åú¤
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ1
+N
+java:S1854”"8Remove this useless assignment to local variable "node".(ÉË¶[
+T	java:S106–"9Replace this use of System.out or System.err by a logger.(ÜÎ¸øÿÿÿÿ
+N	java:S106š"9Replace this use of System.out or System.err by a logger.(ÿâÖ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(”‰ñ„
+B
+java:S1168£"+Return an empty collection instead of null.(¥¹ï
+?
+java:S1481”")Remove this unused "node" local variable.(ÉË¶[
