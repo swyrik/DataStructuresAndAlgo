@@ -1,6 +1,4 @@
-package com.rtc.datastructures.sortsearch;
-
-import org.jetbrains.annotations.NotNull;
+package com.rtc.datastructures.sorting;
 
 public class ShellSort {
 
@@ -10,7 +8,7 @@ public class ShellSort {
         arr[iIndex] = temp;
     }
 
-    private static <T extends Comparable> void shellSort(T @NotNull [] arr){
+    private static <T extends Comparable> void shellSort(T  [] arr){
         for (int interval = arr.length/2; interval > 0 ; interval = interval/2) {
             for(int j = interval; j< arr.length; j++){
                 for (int i = 0;i + interval < arr.length; i++){

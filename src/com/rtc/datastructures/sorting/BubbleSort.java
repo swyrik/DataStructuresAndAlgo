@@ -1,4 +1,4 @@
-package com.rtc.datastructures.sortsearch;
+package com.rtc.datastructures.sorting;
 
 public class BubbleSort {
 

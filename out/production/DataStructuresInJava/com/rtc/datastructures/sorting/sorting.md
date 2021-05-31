@@ -1,4 +1,4 @@
-# Sorting Searching
+# Sorting
 
 >We will consider worst time complexity for any algorithm
 
@@ -32,7 +32,17 @@
     - Hibbard's increments: 1,3,7,15,31,63,127....
     - papernov and stasevich increment: 1,3,5,9,17,33,65....
     - pratt: 1,2,3,4,6,9,8,12,18,27...
-- Ssdsd
+  
+## Merge Sorting
+- Merge sort is a divide and conquer strategy
+- O(N log n) is the time complexity
+- it's not an adaptive sort (stop the algo in between)
+- it's a stable sort
+- O(N) is the space complexity
 
+## Quick Sorting
+- quick sort is more efficient than merge sort
+- O(N log n) is the time complexity on an average case and O(N^2) is the worst time complexity
+- quick sort uses divide and conquer strategy
 
 

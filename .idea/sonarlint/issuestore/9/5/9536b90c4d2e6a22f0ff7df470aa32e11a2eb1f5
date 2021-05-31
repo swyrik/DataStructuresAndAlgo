@@ -1,0 +1,24 @@
+
+W
+java:S1128"<Remove this unused import 'java.nio.charset.CharsetEncoder'.(‘›šıøÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "nodef".(’«şä
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ôäšûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ôäšûÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ôäšûÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ÏÁƒúÿÿÿÿ8¦¯Íš/
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(–©†Î8¦¯Íš/
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(¢ÎÒÜşÿÿÿÿ8§¯Íš/
+D
+java:S1905}")Remove this unnecessary cast to "Object".(Ğ¯ÿáÿÿÿÿÿ
+E
+java:S1905€")Remove this unnecessary cast to "Object".(àñµïşÿÿÿÿ
+E
+java:S1905Œ")Remove this unnecessary cast to "Object".(àñµïşÿÿÿÿ
+E
+java:S1905")Remove this unnecessary cast to "Object".(Ğ¯ÿáÿÿÿÿÿ
+@
+java:S1481"*Remove this unused "nodef" local variable.(’«şä

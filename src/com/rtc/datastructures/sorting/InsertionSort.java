@@ -1,6 +1,4 @@
-package com.rtc.datastructures.sortsearch;
-
-import sun.awt.image.ImageWatched;
+package com.rtc.datastructures.sorting;
 
 import java.util.LinkedList;
 import java.util.List;
