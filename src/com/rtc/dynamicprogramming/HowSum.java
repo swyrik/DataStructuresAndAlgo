@@ -11,7 +11,7 @@ public class HowSum {
         System.out.println(canSum(7, new int[]{2,3}, new LinkedList<Integer>(), new HashMap<>()));
         System.out.println(canSum(7, new int[]{5,3,4,7}, new LinkedList<Integer>(), new HashMap<>()));
         System.out.println(canSum(7, new int[]{2,4}, new LinkedList<Integer>(), new HashMap<>()));
-        System.out.println(canSum(8, new int[]{2,3,5}, new LinkedList<Integer>(), new HashMap<>()));
+        System.out.println(canSum(8, new int[]{5,3,2}, new LinkedList<Integer>(), new HashMap<>()));
         System.out.println(canSum(300, new int[]{7,14}, new LinkedList<Integer>(), new HashMap<>()));
     }
 
@@ -20,9 +20,6 @@ public class HowSum {
             list.remove(list.size()-1);
             return map.get(targetNum);
         }
-
-
-
 
         if(targetNum == 0){
             return list;
@@ -36,7 +33,6 @@ public class HowSum {
         for (int num: arr) {
             int newTargetNum = targetNum - num;
             list.add(num);
-//            System.out.println("targetNum: "+targetNum +", num: "+ num + ", newTargetNum: "+newTargetNum);
             List<Integer> newList = canSum(newTargetNum, arr, list, map);
             map.put(newTargetNum, newList);
             if(null != newList){
