@@ -1,0 +1,9 @@
+
+@
+java:S5411 "*Use the primitive boolean expression here.(âÇÝè
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ËÖ¶ÿýÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÿÝ­²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ„šÖ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì ê¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñÓ²Õùÿÿÿÿ
