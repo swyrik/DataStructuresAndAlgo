@@ -1,0 +1,12 @@
+
+Y
+java:S2589#"7Remove this expression which always evaluates to "true"(¿Ú¼ùÿÿÿÿ8“­öˆ /
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÿÎÈúÿÿÿÿ8àô÷ˆ /
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ºêíûÿÿÿÿ8áô÷ˆ /
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºËÓ½8âô÷ˆ /
+X
+java:S1854"<Remove this useless assignment to local variable "tempList".(ŞÙƒc8–­öˆ /
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8—­öˆ /
+M
+java:S1481""+Remove this unused "subStr" local variable.(ÿÄ›ùÿÿÿÿ8™­öˆ /
