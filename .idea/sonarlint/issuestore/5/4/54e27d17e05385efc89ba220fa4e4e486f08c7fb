@@ -1,0 +1,21 @@
+
+T
+java:S1155g">Use isEmpty() to check whether the collection is empty or not.(ì¾ÍÜ
+Y
+java:S1155q">Use isEmpty() to check whether the collection is empty or not.(ú„˜ºıÿÿÿÿ
+k
+java:S1149["PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ş‘üˆüÿÿÿÿ
+f
+java:S1149\"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ˆÉÌÒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Ş­²ûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â¨ü8İã›¬¢/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÜşÿÿÿÿ8İã›¬¢/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(“Ú‹é8İã›¬¢/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(·ºÊƒûÿÿÿÿ8×ˆœ¬¢/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Ç§Öè8×ˆœ¬¢/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(×Ô8£ÚŸ¬¢/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¢¬••ıÿÿÿÿ8¤ÚŸ¬¢/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(´Ë÷Şúÿÿÿÿ8¤ÚŸ¬¢/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(İßñ£ÿÿÿÿÿ8¤ÚŸ¬¢/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ÍïÏÕ8¥ÚŸ¬¢/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¯Ãüøÿÿÿÿ8¥ÚŸ¬¢/
