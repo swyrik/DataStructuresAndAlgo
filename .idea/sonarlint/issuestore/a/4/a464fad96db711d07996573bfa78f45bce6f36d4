@@ -1,16 +1,0 @@
-
-Y
-java:S11550">Use isEmpty() to check whether the collection is empty or not.(©’Ú˜úÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Îäãş
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îäãş
-S	java:S106"9Replace this use of System.out or System.err by a logger.(è¶ä¿ÿÿÿÿÿ
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(è¶ä¿ÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(øûıŠ
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(øûıŠ
-A
-java:S1168"+Return an empty collection instead of null.(¥¹ï
-A
-java:S11683"+Return an empty collection instead of null.(¥¹ï

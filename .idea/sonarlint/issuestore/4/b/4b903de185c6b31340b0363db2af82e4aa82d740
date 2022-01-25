@@ -1,19 +1,0 @@
-
-^
-java:S1192"HDefine a constant instead of duplicating this literal "
-peek: " 4 times.(ßßòÈ
-b
-java:S1192"LDefine a constant instead of duplicating this literal "
-Contents: " 4 times.(¯…ü¼
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ê¼ã·ÿÿÿÿÿ
-S	java:S106	"9Replace this use of System.out or System.err by a logger.(ìöÃÐúÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ê¼ã·ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ìöÃÐúÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¯…ü¼
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ßßòÈ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¯…ü¼
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ßßòÈ
-N	java:S106""9Replace this use of System.out or System.err by a logger.(¯…ü¼
-N	java:S106#"9Replace this use of System.out or System.err by a logger.(ßßòÈ
-N	java:S106("9Replace this use of System.out or System.err by a logger.(¯…ü¼
-N	java:S106)"9Replace this use of System.out or System.err by a logger.(ßßòÈ
